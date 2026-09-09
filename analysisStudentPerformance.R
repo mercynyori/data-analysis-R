@@ -6,6 +6,7 @@ hist(StudentsPerformanceDataset$Weekly.study.hours)
 hist(StudentsPerformanceDataset$Sex)
 hist(StudentsPerformanceDataset$Attendance.to.classes)
 hist(StudentsPerformanceDataset$GRADE)
+hist(StudentsPerformanceDataset$Do.you.have.a.partner)
 head(StudentsPerformanceDataset)
 dim(StudentsPerformanceDataset)
 StudentsPerformanceDataset[is.na(StudentsPerformanceDataset)]
@@ -18,6 +19,7 @@ my_clean<- StudentsPerformanceDataset %>% select(Weekly.study.hours, Do.you.have
 View(my_clean)
 my_sample <- my_clean %>% slice_sample(n = 100)
 View(my_sample)
+t.test(GRADE ~ Do.you.have.a.partner, data= my_clean, var.equal = FALSE)
 
 
 # -------------------------------------------------------------------------
