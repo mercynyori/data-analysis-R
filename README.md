@@ -4,8 +4,8 @@ The three main business questions that I was solving were:
                       2. Is there a significance difference in the students' mean Grades based on their marital status? 
                       3. Do the weekly study hours a student takes have a relationship with the student’s grades? 
 I perfomed the descriptive analysis and EDA on my dataset and to get a big picture of the dataset: found no missing values and no duplicates.
-Performed feature selection and sample the columns that I needed
-My hypothesis were thr following:
+Performed feature selection and sample the columns that I needed.
+My hypothesis were the following:
            H₀: The mean grade of the students grade is consistent throughout the three note -taking groups: those who never, those who do it sometimes and those who always  
            H₁: The mean grade of the students grade is different across the three note-taking groups: those who never, those who do it sometimes and those who always 
 
