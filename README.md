@@ -18,9 +18,12 @@ My hypothesis were the following:
            H₁: There is a relationship between weekly study hours and the final grades of the students. 
 
 Performed inferential statitics on the hypothesis and came back with findings;
+
                   From One-way ANOVA we have concluded that at-least one of the notes taking groups mean grades is different. 
-                  From Welch's two sample t-test we have concluded that there is no significant difference between the mean student's grade based on their marital status
+                  From Welch's two sample t-test we have concluded that there is no significant difference between the mean student's grade based 
+                  on their marital status
                   The independent Chi-square test shows that there is a relationship between the weekly studying hours and grades of the students.
+                  
 Future Improvements:
         Performing a post-hoc analysis to understand what relationship is there between the weekly-study hours and grades of the students and which note-taking group has the highest mean grades. 
         Expanding data to an even larger dataset which will make the results more trustworthy where deeper insights can be from. 
