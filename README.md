@@ -6,8 +6,10 @@ The three main business questions that I was solving were:
 I perfomed the descriptive analysis and EDA on my dataset and to get a big picture of the dataset: found no missing values and no duplicates.
 Performed feature selection and sample the columns that I needed.
 My hypothesis were the following:
-           H₀: The mean grade of the students grade is consistent throughout the three note -taking groups: those who never, those who do it sometimes and those who always  
-           H₁: The mean grade of the students grade is different across the three note-taking groups: those who never, those who do it sometimes and those who always 
+
+           H₀: The mean grade of the students grade is consistent throughout the three note -taking groups: those who never, those who do it   
+                sometimes and those who always
+           H₁: The mean grade of the students grade is different across the three note-taking groups: those who never, those who do it sometimes                 and those who always?
 
            H₀: There is no significance difference in the students grades between the two marital status groups? 
            H₁: There is a significance difference in the students grades between the two marital status groups? 
