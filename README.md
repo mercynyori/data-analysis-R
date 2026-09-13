@@ -1,5 +1,5 @@
-This is a student perofrmance analysis to undertsnd the learning behaivours that affect students grades.I focused on three behaivours and performed descrptive and inferential statistics as required
-the three main business questions that i was solving were:
+This is a student performance analysis to undertasnd the learning behaivours that affect students grades.I focused on three behaivours and performed descreptive and inferential statistics.
+The three main business questions that I was solving were:
                       1. Does the mean of the student’s grade differ across the three note taking classes; the ones that never takes, the ones that sometimes do it, the ones that always take? 
                       2. Is there a significance difference in the students' mean Grades based on their marital status? 
                       3. Do the weekly study hours a student takes have a relationship with the student’s grades? 
